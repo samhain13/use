@@ -27,3 +27,7 @@ I'm “Independent Multimedia Artist”— which means a freelance handyman/know
 * Python for Android (SL4A)
 * Snes9x / Snes9x EX (FTW!!!)
 
+---
+Follow me: [abcruz2310 on Twitter](https://twitter.com/abcruz2310)  
+Like my page: [Independent Multimedia on Facebook](https://www.facebook.com/independent.multimedia)  
+Subscribe: [abcruz2310 on YouTube](http://www.youtube.com/abcruz2310)
