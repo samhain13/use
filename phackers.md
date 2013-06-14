@@ -24,3 +24,8 @@
 
 * Github: https://github.com/zakame
 * Website: https://zakame.net
+
+## [Arielle B Cruz](samhain13.html)
+
+* Github: https://github.com/samhain13
+* Website: http://www.abcruz.com
